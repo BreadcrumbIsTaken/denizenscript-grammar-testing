@@ -5,6 +5,6 @@ spacious_tags_test:
         - narrate <server
             .worlds.first
             .name>
-      - narrate
-            format:x
-            "hello world"
+        - narrate
+                format:x
+                "hello world"
