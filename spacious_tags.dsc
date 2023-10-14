@@ -8,3 +8,5 @@ spacious_tags_test:
         - narrate
                 format:x
                 "hello world"
+        - narrate "more
+            testing wow"
